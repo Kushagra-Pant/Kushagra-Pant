@@ -17,5 +17,5 @@ My name is Kushagra Pant. I am an incoming Waterloo Computer Engineer. I love bu
 </p>
 
 ## Let's connect
-**Email:** 1pantkus@gmail.com
+**Email:** 1pantkus@gmail.com <br>
 **Discord:** kushagraaa
