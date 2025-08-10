@@ -3,11 +3,17 @@
 My name is Kushagra Pant. I am an incoming Waterloo Computer Engineer. I love building new and unique things.
 
 ## Languages
-![Python](https://img.shields.io/badge/code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![Java](https://img.shields.io/badge/code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
-![JavaScript](https://img.shields.io/badge/code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![HTML](https://img.shields.io/badge/code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
-![CSS](https://img.shields.io/badge/code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
+
+**Experienced in**  
+<img src="https://cdn.simpleicons.org/python/3776AB" height="30" /> 
+<img src="https://cdn.simpleicons.org/java/007396" height="30" /> 
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" /> 
+<img src="https://cdn.simpleicons.org/html5/E34F26" height="30" /> 
+<img src="https://cdn.simpleicons.org/css3/1572B6" height="30" />  
+
+**Also worked with**  
+<img src="https://cdn.simpleicons.org/kotlin/7F52FF" height="30" /> 
+<img src="https://cdn.simpleicons.org/cplusplus/00599C" height="30" />
 
 ## 📈 GitHub Stats
 
@@ -17,5 +23,5 @@ My name is Kushagra Pant. I am an incoming Waterloo Computer Engineer. I love bu
 </p>
 
 ## Let's connect
-**Email:** 1pantkus@gmail.com <br>
-**Discord:** kushagraaa
+<img src="https://cdn.simpleicons.org/gmail/EA4335" height="25" /> **Email:** 1pantkus@gmail.com
+<img src="https://cdn.simpleicons.org/discord/5865F2" height="25" /> **Discord:** kushagraaa  <br>
