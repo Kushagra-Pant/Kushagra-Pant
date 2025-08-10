@@ -6,14 +6,14 @@ My name is Kushagra Pant. I am an incoming Waterloo Computer Engineer. I love bu
 
 **Experienced in**  
 <img src="https://cdn.simpleicons.org/python/3776AB" height="30" /> 
-<img src="https://cdn.simpleicons.org/java/007396" height="30" /> 
+<img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" height="30" /> 
 <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" /> 
 <img src="https://cdn.simpleicons.org/html5/E34F26" height="30" /> 
 <img src="https://cdn.simpleicons.org/css3/1572B6" height="30" />  
 
 **Also worked with**  
 <img src="https://cdn.simpleicons.org/kotlin/7F52FF" height="30" /> 
-<img src="https://cdn.simpleicons.org/cplusplus/00599C" height="30" />
+<img src="https://cdn.simpleicons.org/arduino/00878F" height="30" />
 
 ## 📈 GitHub Stats
 
@@ -23,5 +23,5 @@ My name is Kushagra Pant. I am an incoming Waterloo Computer Engineer. I love bu
 </p>
 
 ## Let's connect
-<img src="https://cdn.simpleicons.org/gmail/EA4335" height="25" /> **Email:** 1pantkus@gmail.com
-<img src="https://cdn.simpleicons.org/discord/5865F2" height="25" /> **Discord:** kushagraaa  <br>
+<img src="https://cdn.simpleicons.org/gmail/EA4335" height="25" /> **Email:** 1pantkus@gmail.com <br>
+<img src="https://cdn.simpleicons.org/discord/5865F2" height="25" /> **Discord:** kushagraaa 
