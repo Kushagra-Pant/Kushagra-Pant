@@ -25,6 +25,6 @@ My name is Kushagra Pant. I am an incoming Waterloo Computer Engineer. I love bu
 ## Let's connect
 <img src="https://cdn.simpleicons.org/gmail/EA4335" height="25"/>
 <b>Email:</b> 1pantkus@gmail.com
-<br>
+<br><br><br>
 <img src="https://cdn.simpleicons.org/discord/5865F2" height="25"/>
 <b>Discord:</b> kushagraaa 
