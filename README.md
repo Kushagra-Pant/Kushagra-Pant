@@ -5,10 +5,10 @@ My name is Kushagra Pant. I am an incoming Waterloo Computer Engineer. I love bu
 ## Languages
 
 **Experienced in**  
-<img src="https://cdn.simpleicons.org/python/3776AB" height="30" /> 
+<img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" height="30" /> 
 <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" height="30" /> 
-<img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" /> 
-<img src="https://cdn.simpleicons.org/html5/E34F26" height="30" /> 
+<img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" height="30" /> 
+<img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" height="30" /> 
 <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" height="30" />  
 
 **Also worked with**  
