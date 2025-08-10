@@ -5,15 +5,15 @@ My name is Kushagra Pant. I am an incoming Waterloo Computer Engineer. I love bu
 ## Languages
 
 **Experienced in**  
-<img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" height="30" /> 
-<img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" height="30" /> 
-<img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" height="30" /> 
-<img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" height="30" /> 
-<img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" height="30" />  
+<img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" height="40" /> 
+<img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" height="40" /> 
+<img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" height="40" /> 
+<img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" height="40" /> 
+<img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" height="40" />  
 
 **Also worked with**  
-<img src="https://img.icons8.com/?size=100&id=ZoxjA0jZDdFZ&format=png&color=000000" height="30" /> 
-<img src="https://img.icons8.com/?size=100&id=13444&format=png&color=000000" height="30" />
+<img src="https://img.icons8.com/?size=100&id=ZoxjA0jZDdFZ&format=png&color=000000" height="40" /> 
+<img src="https://img.icons8.com/?size=100&id=13444&format=png&color=000000" height="40" />
 
 ## 📈 GitHub Stats
 
@@ -23,8 +23,8 @@ My name is Kushagra Pant. I am an incoming Waterloo Computer Engineer. I love bu
 </p>
 
 ## Let's connect
-<img src="https://cdn.simpleicons.org/gmail/EA4335" height="25" style="vertical-align: middle;" />
-**Email:** 1pantkus@gmail.com
+<img src="https://cdn.simpleicons.org/gmail/EA4335" height="25"/>
+<b>Email:</b> 1pantkus@gmail.com
 <br>
-<img src="https://cdn.simpleicons.org/discord/5865F2" height="25" style="vertical-align: middle;" />
-**Discord:** kushagraaa 
+<img src="https://cdn.simpleicons.org/discord/5865F2" height="25"/>
+<b>Discord:</b> kushagraaa 
