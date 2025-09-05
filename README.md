@@ -24,8 +24,12 @@ My name is Kushagra Pant. I am a Waterloo Computer Engineer, currently in 1A. I 
 </p>
 
 ## Let's connect
-<img src="https://cdn.simpleicons.org/gmail/EA4335" height="25"/>
-<b>Email:</b> 1pantkus@gmail.com
+<span>
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" height="25"/>
+  <b>Email:</b> 1pantkus@gmail.com
+</span>
 <br><br><br>
-<img src="https://cdn.simpleicons.org/discord/5865F2" height="25"/>
-<b>Discord:</b> kushagraaa 
+<span>
+  <img src="https://cdn.simpleicons.org/discord/5865F2" height="25"/>
+  <b>Discord:</b> kushagraaa 
+</span>
