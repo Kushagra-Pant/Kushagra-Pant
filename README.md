@@ -17,7 +17,7 @@ My name is Kushagra Pant. I am a Waterloo Computer Engineer, currently in 1A. I 
 
 ## 📈 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kushagra-pant&show_icons=true&theme=github_dark" />
   <br>
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kushagra-pant&theme=github-dark-blue" />
