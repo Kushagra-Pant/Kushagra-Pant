@@ -19,6 +19,7 @@ My name is Kushagra Pant. I am a Waterloo Computer Engineer, currently in 1A. I 
 <img src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" height="40" />
 <img src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000" height="40" />
 <img src="https://img.icons8.com/?size=100&id=tBBf3P8HL0vR&format=png&color=000000" height="40" />
+<img src="https://img.icons8.com/?size=100&id=ywH6EJgZ7sm5&format=png&color=FD7E14" height="40" />
 
 ## 📈 GitHub Stats
 
