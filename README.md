@@ -35,11 +35,11 @@ My name is Kushagra Pant. I am a Waterloo Computer Engineer, currently in 1A. My
 ## Let's connect
 <table>
   <tr>
-    <td><img src="https://cdn.simpleicons.org/gmail/EA4335" height="25"/></td>
+    <td>![Gmail](https://cdn.simpleicons.org/gmail/EA4335)</td>
     <td><b>Email:</b> 1pantkus@gmail.com</td>
   </tr>
   <tr>
-    <td><img src="https://cdn.simpleicons.org/discord/5865F2" height="25"/></td>
+    <td>![Discord](https://cdn.simpleicons.org/discord/5865F2)</td>
     <td><b>Discord:</b> kushagraaa </td>
   </tr>
 </table>
