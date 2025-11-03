@@ -2,6 +2,8 @@
 
 My name is Kushagra Pant. I am a Waterloo Computer Engineer, currently in 1A. My passion and desire to learn lead me to build new things. I love problem-solving and getting to the bottom of a problem or task.
 
+My website: https://kushagra.uwce.ca/
+
 ## Languages
 
 **Experienced in**  
